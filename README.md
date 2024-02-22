@@ -1,5 +1,5 @@
 # About me
-  - 😄I'm ZhengdaoZhang, a front-end engineer.
+  - 😄I'm ZhengdaoZhang, a web developer.
   - 🏠I come from Luoyang, Henan, China.
   - 😍I like running and cycling.
 <!--
