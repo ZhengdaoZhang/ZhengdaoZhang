@@ -1,13 +1,9 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
+![image](https://myoctocat.com/assets/images/base-octocat.svg)
 # About me
   - 😄I'm ZhengdaoZhang, a web developer.
   - 🏠I come from Luoyang, Henan, China.
   - 😍I like running and cycling.
+
 <!--
 **ZhengdaoZhang/ZhengdaoZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
