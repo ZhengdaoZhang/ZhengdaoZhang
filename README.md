@@ -3,7 +3,11 @@
   - 😄I'm ZhengdaoZhang, a web developer.
   - 🏠I come from Luoyang, Henan, China.
   - 😍I like running and cycling.
-
+##  Most-used programing languages
+  | Rank | Name |
+  |-----:|------------|
+  |     1| Javascript |
+  |     2| Typescript |
 <!--
 **ZhengdaoZhang/ZhengdaoZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
